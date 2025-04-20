@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="172.28.249.124.caso_estudio.sa2"
+  DTS:DTSID="{A7AE0771-0C66-437F-BD6C-2493478A95EA}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=172.28.249.124;User ID=sa;Initial Catalog=caso_estudio;Persist Security Info=True;TrustServerCertificate=True;Application Name=SSIS-Integration Services Project2-{A7AE0771-0C66-437F-BD6C-2493478A95EA}172.28.249.124.caso_estudio.sa2;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAzM/WoyvSkU272jCkKC+JmAAAAAACAAAAAAAQZgAAAAEAACAAAAArRD+ZefvrT1B9gtsp6hpEbL7JlEh5xOGzhaDPHEWKnAAAAAAOgAAAAAIAACAAAAAzjV4RJrdZ9cHj9txk78/UKvY+wfREeckyjlLJvLTunoAAAABjsMQCTKiOD6/Mkaz0QAaf+ZwwpeafS2XU7MttQBN8PSj5Dj9NbcsZyhgKv7jcFmJGraPo9Yg0ewtZ6u9IxjPiOlSWSB+YN/4Wr9dgxWESs2zWJasiEGkwLeL/9vSAfsk3vsteaI71oABNlOO5x8/ojVZYdTm5R+A25zehLrMGTEAAAACIUKOTPG9sN51w05pbOEraprMzxzFYbz7Q6DljmzoEuQGBNzlmU4WiuZzus57s//sq8bcDKGKlb/amJQ4th+xf</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

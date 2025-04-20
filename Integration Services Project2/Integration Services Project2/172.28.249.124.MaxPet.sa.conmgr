@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="172.28.249.124.MaxPet.sa"
+  DTS:DTSID="{7A589E78-65D4-46E6-9A15-A1F95DC5A8E1}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=172.28.249.124;User ID=sa;Initial Catalog=MaxPet;Persist Security Info=True;TrustServerCertificate=True;Application Name=SSIS-Integration Services Project2-{7A589E78-65D4-46E6-9A15-A1F95DC5A8E1}172.28.249.124.MaxPet.sa;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAzM/WoyvSkU272jCkKC+JmAAAAAACAAAAAAAQZgAAAAEAACAAAABBArRu2wT15zm3F9icrpYK4vsGSEaHKB5dvmJ8RzhjegAAAAAOgAAAAAIAACAAAAA8kBit/433Q3gu+xiCEkz92kd4dFyQXlG6MLqzo2RStIAAAACkaTbrD0C4ziFUd2ndVOyCUjbzWCc8PjIiGZdZwp2ivRFOoZ/W7HhUOMj8iCV2h+MUk5ZVoMDkvLrWdia6qryoyUpCUG8/iUnqdQSdhe8obCQlFxVJuYBdyLfC6a9y/JfqYdf3wAep0arvr4HlCryeBjQ4FbjZJq6ooCV9HE5KUEAAAADmYBumKpLKLrzqRmWTgkfH1bp86TJ5bMucaCVeXkufhHUpiwovCelxdhPd0hrXTzAR0hMXaIqrOmRYgECW3TUr</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
